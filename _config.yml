@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 title: pySushi
 descrition: my python playground on Git Hub
